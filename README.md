@@ -60,4 +60,12 @@
 <img src="https://img.shields.io/badge/Clickhouse-Black?style=for-the-badge&logo=clickhouse&logoColor=white&color=grey" />
 <!-- C++ -->
 <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=grey" />
+<!-- RabbitMQ -->
+<img src="https://img.shields.io/badge/RabbitMQ-Black?style=for-the-badge&logo=rabbitmq&logoColor=white&color=grey">
+<!-- Apache Pulsar -->
+<img src="https://img.shields.io/badge/ApachePulsar-Black?style=for-the-badge&logo=apache%20pulsar&logoColor=white&color=grey">
+<!-- Kafka -->
+<img src="https://img.shields.io/badge/Kafka-Black?style=for-the-badge&logo=apache%20kafka&logoColor=white&color=grey">
+<!-- NATS -->
+<img src="https://img.shields.io/badge/NATS-Black?style=for-the-badge&logo=nats.io&logoColor=white&color=grey">
 </div>
