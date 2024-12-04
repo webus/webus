@@ -1,10 +1,16 @@
 <h1 align="center"> Hello, I'm Aleksei! </h1>
-<h3 align="center"> Senior Software Engineer (Python / Golang) | Audio Software Engineer | DJ & Producer </h3>
+<h3 align="center"> Senior Software Engineer </h3>
+
+Software Engineer with over 17 years of experience in commercial software development, bringing deep expertise across diverse languages and technologies. I focus on creating AI and FinTech solutions, leveraging a solid background in banking with over 5 years of experience in the financial sector.
+
+My tech stack includes Python, Golang, and NodeJS, which I use to build scalable, high-performance applications.
+
+In addition to my primary expertise, I am dedicated to continuous learning and exploration of emerging technologies. I have foundational experience in Rust, Elixir, Zig, Lua, Clojure, Scala, and Java, allowing me to experiment with innovative solutions and expand my toolkit to meet evolving industry demands.
 
 <h2>About me</h2>
 <ul>
-    <li> 💻 Currently working developing audio plug-ins with C++ and JUCE </li>
-    <li> 🎧 I love music and technology </li>
+    <li> 💻 Software Engineer with over 17 years of experience in commercial software development, bringing deep expertise across diverse languages and technologies. I focus on creating AI and FinTech solutions, leveraging a solid background in banking with over 5 years of experience in the financial sector.</li>
+    <li> 🔎 Currently, I work with Python, Golang, and NodeJS. I’m actively learning Rust and Zig. I’m also refreshing my knowledge of C++.</li>
 </ul>
 
 <h2> Skills </h2>
@@ -68,4 +74,6 @@
 <img src="https://img.shields.io/badge/Kafka-Black?style=for-the-badge&logo=apache%20kafka&logoColor=white&color=grey">
 <!-- NATS -->
 <img src="https://img.shields.io/badge/NATS-Black?style=for-the-badge&logo=nats.io&logoColor=white&color=grey">
+<!-- Lua -->
+<img src="https://img.shields.io/badge/Lua-Black?style=for-the-badge&logo=lua&logoColor=white&color=grey">
 </div>
