@@ -32,4 +32,15 @@
 <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=grey">
 <!-- Ray -->
 <img src="https://img.shields.io/badge/Ray-black?style=for-the-badge&logo=ray&logoColor=white&color=grey">
+<!-- Pandas -->
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&color=grey">
+<!-- Docker -->
+<img src="https://img.shields.io/badge/Docker-Black?style=for-the-badge&logo=docker&logoColor=white&color=grey">
+<!-- Kubernetes -->
+<img src="https://img.shields.io/badge/Kubernetes-Black?style=for-the-badge&logo=kubernetes&logoColor=white&color=grey">
+<!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-Black?style=for-the-badge&logo=amazon%20web%20services&logoColor=white&color=grey">
+<!-- Google Cloud -->
+<img src="https://img.shields.io/badge/Google%20Cloud-Black?style=for-the-badge&logo=google%20cloud&logoColor=white&color=grey">
+
 </div>
