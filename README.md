@@ -22,4 +22,14 @@
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white&color=grey">
 <!-- PostgreSQL -->
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&color=grey">
+<!-- ArangoDB -->
+<img src="https://img.shields.io/badge/ArangoDB-black?style=for-the-badge&logo=arangodb&logoColor=white&color=grey">
+<!-- React JS -->
+<img src="https://img.shields.io/badge/ReactJS-Black?style=for-the-badge&logo=react&logoColor=white&color=grey">
+<!-- Redis -->
+<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white&color=grey">
+<!-- FastAPI -->
+<img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&color=grey">
+<!-- Ray -->
+<img src="https://img.shields.io/badge/Ray-black?style=for-the-badge&logo=ray&logoColor=white&color=grey">
 </div>
